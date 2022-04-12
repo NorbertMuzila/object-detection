@@ -1,0 +1,19 @@
+.top-border{
+    border-top: 4px solid rgb(203, 9, 9) ;
+}
+
+.heading-font{
+   font-family: 'Times New Roman', cursive;
+  }
+
+.objects-scroll{
+    overflow-y: scroll;
+    max-height: 300px;
+    background:#f5f0f1
+}
+
+a:hover{
+    color:#52e868!important;
+}
+
+
